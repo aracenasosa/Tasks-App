@@ -1,0 +1,33 @@
+{
+    "Tasks":
+    [
+      {
+          "Title": "Programming",
+          "Responsible": "Carlos Aracena",
+          "Description": "Coding in Javascript",
+          "Priority": "Low"
+      },
+
+      {
+        "Title": "Design",
+        "Responsible": "Alberto Alcantara",
+        "Description": "Desing in Adobe Illustrator",
+        "Priority": "Medium"
+      },
+
+      {
+        "Title": "Mecathonic",
+        "Responsible": "Jesus Miguel",
+        "Description": "Building a Robot like Robocot",
+        "Priority": "High"
+      },
+
+      {
+        "Title": "Computing Security",
+        "Responsible": "Jose Martinez",
+        "Description": "Routing a Modem",
+        "Priority": "Low"
+      }
+
+    ]
+}
