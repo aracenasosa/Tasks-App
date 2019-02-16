@@ -25,7 +25,7 @@ class App extends Component {
   }
 
   handleRemove(index){
-   if(window.confirm("Are you sure you want to delete it?")){
+   if(window.confirm("Are you sure you want to delete it really?")){
 
     this.setState({
       Tasks: this.state.Tasks.filter((e, i) =>{
